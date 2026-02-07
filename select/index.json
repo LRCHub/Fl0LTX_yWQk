@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "4AM",
+  "base_artist": "SKRYU",
+  "createdAt": "2026-02-07T13:07:08.109200Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Renaissance (John Digweed's 4AM Mix)",
+      "artist": "M People",
+      "has_synced": false,
+      "path": "select/01_Renaissance_(John_Digweed's_4AM_Mix)_M_People.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "4am Conversation",
+      "artist": "The Boo Radleys",
+      "has_synced": false,
+      "path": "select/02_4am_Conversation_The_Boo_Radleys.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "4am (The Fauns Remix)",
+      "artist": "Power Glove",
+      "has_synced": false,
+      "path": "select/03_4am_(The_Fauns_Remix)_Power_Glove.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "4Am",
+      "artist": "Cherry Ghost",
+      "has_synced": true,
+      "path": "select/04_4Am_Cherry_Ghost.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "4AM IN LA",
+      "artist": "CHXPO feat. Lil Peep",
+      "has_synced": true,
+      "path": "select/05_4AM_IN_LA_CHXPO_feat._Lil_Peep.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "4AM in LA (feat. Lil Peep)",
+      "artist": "Chxpo",
+      "has_synced": true,
+      "path": "select/06_4AM_in_LA_(feat._Lil_Peep)_Chxpo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "4am Forever",
+      "artist": "Lostprophets",
+      "has_synced": true,
+      "path": "select/07_4am_Forever_Lostprophets.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Not Giving Up On Love - Dash Berlin 4AM Mix",
+      "artist": "Armin van Buuren vs Sophie Ellis Bextor",
+      "has_synced": true,
+      "path": "select/08_Not_Giving_Up_On_Love_-_Dash_Berlin_4AM_Mix_Armin_van_Buuren_vs_Sophie_Ellis_Bextor.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Not Giving Up On Love (Dash Berlin 4AM Mix)",
+      "artist": "Armin van Buuren vs Sophie Ellis-Bextor",
+      "has_synced": true,
+      "path": "select/09_Not_Giving_Up_On_Love_(Dash_Berlin_4AM_Mix)_Armin_van_Buuren_vs_Sophie_Ellis-Bextor.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "4am Flex",
+      "artist": "Tory Lanez",
+      "has_synced": true,
+      "path": "select/10_4am_Flex_Tory_Lanez.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "4am",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/11_4am_Madness.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "4am",
+      "artist": "The Fauns",
+      "has_synced": true,
+      "path": "select/12_4am_The_Fauns.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "4AM Magic",
+      "artist": "Chris James",
+      "has_synced": true,
+      "path": "select/13_4AM_Magic_Chris_James.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "4AM",
+      "artist": "JOYRYDE",
+      "has_synced": true,
+      "path": "select/14_4AM_JOYRYDE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "4Am",
+      "artist": "Our Lady Peace",
+      "has_synced": true,
+      "path": "select/15_4Am_Our_Lady_Peace.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "4am",
+      "artist": "girl in red",
+      "has_synced": true,
+      "path": "select/16_4am_girl_in_red.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "4AM (feat. Frankkiss)",
+      "artist": "SKRYU",
+      "has_synced": false,
+      "path": "select/pl_01_4AM_(feat._Frankkiss)_SKRYU.txt"
+    }
+  ]
+}
